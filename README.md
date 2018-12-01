@@ -1,5 +1,5 @@
 # NodeVueLearning
-install node /br
-npm install vue /br
-npm install webpack --save-dev /br
-npm install webpack-cli --save-dev /br
+##install node
+npm install vue\
+npm install webpack --save-dev\
+npm install webpack-cli --save-dev\
